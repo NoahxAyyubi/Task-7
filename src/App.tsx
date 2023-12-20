@@ -1,4 +1,3 @@
-import { MyComponentProps } from './Types';
 import { Person } from './Types';
 
 const MyComponent: React.FC = () => {
